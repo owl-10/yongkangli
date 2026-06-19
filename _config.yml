@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yongkang Li"
-description              : "Incoming Master’s student at HUST. Focusing on Open-World Recognition and Autonomous Driving."
+description              : "Master's student at HUST. Researching multimodal perception, open-world recognition, and autonomous driving."
 repository               : "owl-10.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yongkang Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "Master's student at Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
